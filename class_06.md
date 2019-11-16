@@ -1,4 +1,4 @@
-# 托福第六课 
+# 托福第六课 有效改善发音和口语语言质量
 
 ## 前情提要
 1. information delivery and language use 没有讲
@@ -36,5 +36,3 @@ Sensitivity $ yybility = Intensive reading
 - movie goer 观影人
 - The conbination of  A and B makes a unlikely
 
-
-  

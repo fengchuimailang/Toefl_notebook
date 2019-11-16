@@ -51,3 +51,5 @@ Never try to finish the whole thing at the cost of failing to speak clearly and 
 3. 第一句话用模版 言简意赅陈述过程
 4. baby  不知道性别可以用it
 5. 过程型肯定能说完，freestyle
+6. roomy  car 内部空间小
+7. celebrity 明星

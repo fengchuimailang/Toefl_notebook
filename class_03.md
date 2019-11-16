@@ -80,5 +80,21 @@ Tips：
 1. 第一句可以念原文
 2. biuld bone density 不会帮助更高分，可以用feel more energitic
 3. for some reasons 因为可能不一定有多少个原因
-4. 
+4. goes through 通过
+5. give somebody a better shot at doing 给更好的机会
+6.  细节
 
+## Task3 Explict Menories and Implicit Mewnories
+1. 不要上来就超定义
+2. 阿丽塔 失意了但是 战斗能力还在买这就是implicit memories 
+3. 单词不记得 记汉语拼音
+4. 不要把原因是发错了就好
+5. advertisiing 话题
+6. billboards 广告牌
+7. 重要信息一定会重复 Panther
+8. 过程题 披着分支题的分支
+9. 题目问啥就说啥
+
+## Task 4
+1. ads 一定是可以用的，可以节省时间，但是第一次要advertisment
+2. a is repetition and the other is 总结了，是一种能力。

@@ -35,7 +35,7 @@ Tips
 **checkpoint 就一个，能不能在25s内讲完概念**
 
 ## 分支型分靠模版
->1. Section one(15-20s):The reading passage introduces a concep called xxx,which means that xxxxxx. For example,...
+>1. Section one(15-20s):The reading passage introduces a concept called xxx,which means that xxxxxx. For example,...
 >2. Section two(20s):陈述第一个例子或者例子前半部分。In this case,we can see that 阅读分论点1.
 >3. Section three(20s): 陈述第二个例子或者例子后半部分。 In this case,we realize that 阅读分论点2.
 
